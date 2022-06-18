@@ -1,0 +1,24 @@
+{
+  "name": "atlan",
+  "version": "1.0.0",
+  "description": "Backend Challenge By Atlan",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fast-csv": "^4.3.6",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8",
+    "nodemon": "^2.0.16",
+    "translate": "^1.4.1",
+    "twilio": "^3.77.3"
+  }
+}
